@@ -11,6 +11,16 @@ panagiotis1234567/panagiotis1234567 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 ---> notepad in python :
 
+
+
+
+
+
+
+
+
+
+
 import sys
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QTextEdit, QAction, QFileDialog, QColorDialog,
